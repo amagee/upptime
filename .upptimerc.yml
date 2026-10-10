@@ -7,6 +7,8 @@ sites:
     url: https://ins-api.andrewmagee.tech/api/health
   - name: Logivois
     url: https://api.logivois.com/api/health
+  - name: AEC
+    url: https://aec-api.andrewmagee.tech/api/health
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
