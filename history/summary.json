@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/ins-api.andrewmagee.tech.ico",
     "slug": "ins",
     "status": "up",
-    "uptime": "55.04%",
-    "uptimeDay": "55.04%",
-    "uptimeWeek": "55.04%",
-    "uptimeMonth": "55.04%",
-    "uptimeYear": "55.04%",
-    "time": 578,
-    "timeDay": 578,
-    "timeWeek": 578,
-    "timeMonth": 578,
-    "timeYear": 578,
+    "uptime": "99.14%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.14%",
+    "uptimeMonth": "99.14%",
+    "uptimeYear": "99.14%",
+    "time": 568,
+    "timeDay": 520,
+    "timeWeek": 568,
+    "timeMonth": 568,
+    "timeYear": 568,
     "dailyMinutesDown": {
       "2026-10-09": 13
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 560,
-    "timeDay": 560,
-    "timeWeek": 560,
-    "timeMonth": 560,
-    "timeYear": 560,
+    "time": 544,
+    "timeDay": 528,
+    "timeWeek": 544,
+    "timeMonth": 544,
+    "timeYear": 544,
     "dailyMinutesDown": {}
   }
 ]
