@@ -4,20 +4,20 @@
     "url": "https://ins-api.andrewmagee.tech/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/ins-api.andrewmagee.tech.ico",
     "slug": "ins",
-    "status": "down",
-    "uptime": "98.35%",
-    "uptimeDay": "95.84%",
-    "uptimeWeek": "98.35%",
-    "uptimeMonth": "98.35%",
-    "uptimeYear": "98.35%",
-    "time": 549,
-    "timeDay": 0,
-    "timeWeek": 549,
-    "timeMonth": 549,
-    "timeYear": 549,
+    "status": "up",
+    "uptime": "97.59%",
+    "uptimeDay": "93.44%",
+    "uptimeWeek": "97.59%",
+    "uptimeMonth": "97.59%",
+    "uptimeYear": "97.59%",
+    "time": 545,
+    "timeDay": 516,
+    "timeWeek": 545,
+    "timeMonth": 545,
+    "timeYear": 545,
     "dailyMinutesDown": {
       "2026-10-09": 13,
-      "2026-10-12": 60
+      "2026-10-12": 94
     }
   },
   {
