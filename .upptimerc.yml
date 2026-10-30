@@ -10,7 +10,7 @@ sites:
   - name: AEC
     url: https://aec-api.andrewmagee.tech/api/health
   - name: e
-    url: https://e.andrewmagee.tech/api/health
+    url: https://e.andrewmagee.tech/api/healthz
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
