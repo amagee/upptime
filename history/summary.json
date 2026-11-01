@@ -25,18 +25,20 @@
     "url": "https://api.logivois.com/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/api.logivois.com.ico",
     "slug": "logivois",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 574,
-    "timeDay": 650,
-    "timeWeek": 586,
-    "timeMonth": 574,
-    "timeYear": 574,
-    "dailyMinutesDown": {}
+    "time": 573,
+    "timeDay": 598,
+    "timeWeek": 582,
+    "timeMonth": 573,
+    "timeYear": 573,
+    "dailyMinutesDown": {
+      "2026-11-01": 0
+    }
   },
   {
     "name": "AEC",
@@ -73,7 +75,7 @@
     "timeMonth": 550,
     "timeYear": 550,
     "dailyMinutesDown": {
-      "2026-11-01": 170,
+      "2026-11-01": 673,
       "2026-10-31": 1440,
       "2026-10-30": 1116
     }
