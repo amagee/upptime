@@ -6,7 +6,7 @@ sites:
   - name: Ins
     url: https://ins-api.andrewmagee.tech/api/health
   - name: Logivois
-    url: https://api.logivois.com/api/health
+    url: https://api.logivois.com/api/healthz
   - name: AEC
     url: https://aec-api.andrewmagee.tech/api/health
   - name: e
